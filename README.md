@@ -50,15 +50,13 @@
 
 ### 🤝 **Let's Collaborate**
 <p align="center">
-  <a href="mailto:contact@abeni360.dev" target="_blank">
+  <a href="mailto:abenezermulugeta110@gmail.dev" target="_blank">
     <img src="https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/abeni360" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/abeni360" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+
 </p>
 
 <div align="center">
