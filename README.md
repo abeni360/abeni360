@@ -53,7 +53,10 @@
   <a href="mailto:abenezermulugeta110@gmail.dev" target="_blank">
     <img src="https://img.shields.io/badge/Email-FF5722?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/abeni360" target="_blank">
+  <a href="www.linkedin.com/in/
+abenezer-mulugeta-b51a6233a
+Vanity URL name
+ target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
