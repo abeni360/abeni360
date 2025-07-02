@@ -9,10 +9,10 @@
 
 | **Area**       | **Technologies**                                                                 |
 |----------------|---------------------------------------------------------------------------------|
-| **Frontend**   | React, TypeScript, Next.js, TailwindCSS, GraphQL                                |
-| **Backend**    | Node.js, Python (Django/Flask), PHP (Laravel), Java (Spring)                   |
+| **Frontend**   | React,                                 |
+| **Backend**    |  Python (Django/Flask), PHP (Laravel), Java (Spring)                   |
 | **DevOps**     | AWS, Docker, Kubernetes, GitHub Actions, Terraform                             |
-| **Databases**  | PostgreSQL, MongoDB, Redis, Firebase                                           |
+| **Databases**  | Mysql Firebase                                           |
 | **Specialties**| Microservices, API Design, Performance Optimization                            |
 
 ---
